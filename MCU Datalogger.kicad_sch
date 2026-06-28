@@ -3673,6 +3673,16 @@
 		)
 		(uuid "1893a94b-4381-4f56-9abc-5a14b5d54a87")
 	)
+	(label "Vcc"
+		(at 256.54 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "224cbcba-9709-49a4-b53d-48c42579dfca")
+	)
 	(label "MISO"
 		(at 182.88 63.5 180)
 		(effects
