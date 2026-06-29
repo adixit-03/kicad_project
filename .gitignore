@@ -2,3 +2,6 @@
 *.kicad_prl
 *-backups/
 .DS_Store
+2layer_gerbers/*
+4layer_gerbers/*
+
